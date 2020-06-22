@@ -2,6 +2,7 @@
   <dictionary name="kathy">
     <words>
       <w>httpsrv</w>
+      <w>mmap</w>
     </words>
   </dictionary>
 </component>
